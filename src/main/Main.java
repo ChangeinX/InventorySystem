@@ -13,10 +13,7 @@ import java.util.Objects;
 
 /* This is the Main class that loads the application.
  */
- /** FUTURE ENHANCEMENT. One improvement I would make to the program is
-  * to make a database connection such as mySQL workbench that handles
- * data retrieval and storage.
-  */
+
 public class Main extends Application {
      /** This is the start method. It launches the application. It also
       * passes in lambda function that calls exitApp method
