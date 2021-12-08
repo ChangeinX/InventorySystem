@@ -4,7 +4,7 @@ import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.scene.control.Alert;
 
-/** Inventory class generated per task requirements.
+/**
  * This class is used to do the "heavy-lifting" of the data.
  * It is responsible for adding, editing, and deleting data.*/
 public class Inventory {
