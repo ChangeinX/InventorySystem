@@ -20,19 +20,7 @@ import java.util.Optional;
 import java.util.ResourceBundle;
 
 /**This is the mainScreen controller class.*/
-/**RUNTIME ERROR: I accidentally imported awt functionality
- * instead of javafx when setting up buttons.*/
 public class mainScreenController implements Initializable {
-        /*Initially, I overburdened the project with
-         * setting fx:id properties for buttons and
-         * on action events. I wrote excess code and implemented
-         * conditional statements inside button methods inside
-         * onAction methods with an exhaustive stacktrace that
-         * inserted excessive code nonsensically. Anecdotally,
-         * through this tedium I found immeasurable benefits
-         * of meta-programming. Alas, my skills are underdeveloped
-         * to employ such a measure for this project.
-         */
         @FXML
         private TextField searchByPart;
 
