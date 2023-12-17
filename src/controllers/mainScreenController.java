@@ -1,9 +1,5 @@
 package controllers;
 
-/**
- * Error note: accidentally import awt functionality instead
- * of javafx when setting up buttons
- */
 import model.*;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
